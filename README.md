@@ -2,6 +2,12 @@
 
 Hey! This is my **Airbnb Clone** project. It's a web app where you can create listings, leave reviews, and check out different properties, just like Airbnb. Built using **Node.js, Express, MongoDB, and EJS**.  
 
+Snaps!
+
+<img width="1902" height="946" alt="Screenshot 2025-09-07 010619" src="https://github.com/user-attachments/assets/1a03dd26-0f2e-4e90-b623-7a106c7fdcf9" />
+<img width="1900" height="953" alt="Screenshot 2025-09-07 010735" src="https://github.com/user-attachments/assets/a0f75f88-093e-4bae-8313-24381b10777c" />
+<img width="1891" height="941" alt="Screenshot 2025-09-07 010712" src="https://github.com/user-attachments/assets/4a8921e2-e523-4410-95c5-403fda4a7b86" />
+
 ## Features 
 
 - Users can **sign up, log in, and log out** 
